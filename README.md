@@ -15,5 +15,5 @@ SpeechRecognition==2.2.0
 
 
 ## How to run this project:
-1. open [.env](https://gitlab.com/ZiyiyangWang/image-generator-openai/-/blob/main/.env) file, type in your APIKEY
-2. open [img_generator.py](https://gitlab.com/ZiyiyangWang/image-generator-openai/-/blob/main/img_generator.py), type in terminal: `streamlit run 'img_generator.py'`. Use either local URL or Network URL to experience image generator.
+1. open [.env](https://github.com/ZiyiyangWang/IMG-Generator_OpenAI/blob/main/.env) file, type in your APIKEY
+2. open [img_generator.py](https://github.com/ZiyiyangWang/IMG-Generator_OpenAI/blob/main/img_generator.py), type in terminal: `streamlit run 'img_generator.py'`. Use either local URL or Network URL to experience image generator.
